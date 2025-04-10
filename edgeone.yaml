@@ -1,0 +1,5 @@
+name: tetris
+type: static
+static:
+  dist: public
+  spa: true 
